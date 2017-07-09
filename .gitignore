@@ -1,0 +1,8 @@
+data
+
+.ipynb_checkpoints
+*.pyc
+*.mp3
+*.wav
+*.jpg
+*.png
